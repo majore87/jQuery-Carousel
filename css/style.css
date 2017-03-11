@@ -1,0 +1,25 @@
+body {
+	box-sizing: border-box;
+}
+#carousel {
+	margin: 0 auto;
+	text-align: center;
+	width: 400px;
+	height: 266px;
+	overflow: hidden;
+}
+#carousel ul {
+	max-width: 2000px;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+#carousel ul li {
+	width: 400px;
+	height: 266px;
+	list-style: none;
+	float: left;
+}
