@@ -9,7 +9,7 @@ body {
 	overflow: hidden;
 }
 #carousel ul {
-	max-width: 2000px;
+	width: 2000px;
 	margin: 0;
 	padding: 0;
 	border: 0;
